@@ -100,10 +100,10 @@ const app = {
             image: "./assets/img/Kamishiraishi_Mone.jpg"
         },
         {
-            name: "Chết đi cho rồi",
-            singer: "Nguyễn Hồng Giang (feat Cam & Quỳnh)",
-            path: "./assets/music/Nguyễn Hồng Giang - Chết đi cho rồi ( feat Cam & Quỳnh ).mp3",
-            image: "./assets/img/chetdichoroi.jpg"
+            name: "Em Đừng Khóc",
+            singer: "Chillies",
+            path: "./assets/music/Em Đừng Khóc - Chillies (Official Music Video).mp3",
+            image: "./assets/img/emdungkhoc.jpg"
         },
         {
             name: "Uchiage Hanabi (打上花火)",
@@ -116,6 +116,12 @@ const app = {
             singer: "Hoàng Thùy Linh & Thanh Bùi",
             path: "./assets/music/Không một bài hát nào có thể diễn tả cảm xúc của em lúc này - Hoàng Thùy Linh & Thanh Bùi.mp3",
             image: "./assets/img/khongmotbaihat.jpg"
+        },
+        {
+            name: "Chết đi cho rồi",
+            singer: "Nguyễn Hồng Giang (feat Cam & Quỳnh)",
+            path: "./assets/music/Nguyễn Hồng Giang - Chết đi cho rồi ( feat Cam & Quỳnh ).mp3",
+            image: "./assets/img/chetdichoroi.jpg"
         },
         {
             name: "Lần Cuối (đi bên em xót xa người ơi)",
@@ -202,7 +208,7 @@ const app = {
             image: "./assets/img/ratherbexwithoutme.jpg"
         },
         {
-            name: "Yours (Live)",
+            name: "Yours",
             singer: "Raiden X Chanyeol (Feat. LeeHi, Changmo)",
             path: "./assets/music/Raiden X CHANYEOL - Yours (Feat. LeeHi, CHANGMO).mp3",
             image: "./assets/img/yours.jpg"
