@@ -124,6 +124,12 @@ const app = {
             image: "./assets/img/lancuoi.jpg"
         },
         {
+            name: "Stay With Me",
+            singer: "Miki Matsubara",
+            path: "./assets/music/Miki Matsubara - Stay With Me HD (Club Mix).mp3",
+            image: "./assets/img/staywithme.jpg"
+        },
+        {
             name: "Thấy Chưa",
             singer: "Ngọt",
             path: "./assets/music/Ngọt - Thấy Chưa.mp3",
