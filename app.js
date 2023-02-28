@@ -70,12 +70,6 @@ const app = {
             image: "./assets/img/gianghi.jpg"
         },
         {
-            name: "You",
-            singer: "Jisoo",
-            path: "./assets/music/JISOO - ' YOU ' MV.mp3",
-            image: "./assets/img/jisoo.jpg"
-        },
-        {
             name: "Lonely Love",
             singer: "Trang Hàn, TDK, Hoàng Thống",
             path: "./assets/music/Trang Hàn x TDK x Hoàng Thống - LONELY LOVE.mp3",
@@ -86,12 +80,6 @@ const app = {
             singer: "BIBI - MILLI",
             path: "./assets/music/BIBI & MILLI - The Weekend (MILLI Remix).mp3",
             image: "./assets/img/bibi.jpg"
-        },
-        {
-            name: "Sài Gòn Tôi Mưa",
-            singer: "Tuyên (ft. MC Goku)",
-            path: "./assets/music/TUYÊN - SÀI GÒN TÔI MƯA (ft. MC GOKU) .mp3",
-            image: "./assets/img/saigontoimua.jpg"
         },
         {
             name: "[Kimi No Nawa] Nandemonaiya",
@@ -110,12 +98,6 @@ const app = {
             singer: "DAOKO - 米津玄師",
             path: "./assets/music/DAOKO 米津玄師『打上花火』MUSIC VIDEO.mp3",
             image: "./assets/img/daoko.jpg"
-        },
-        {
-            name: "Không một bài hát nào có thể diễn tả cảm xúc của em lúc này",
-            singer: "Hoàng Thùy Linh & Thanh Bùi",
-            path: "./assets/music/Không một bài hát nào có thể diễn tả cảm xúc của em lúc này - Hoàng Thùy Linh & Thanh Bùi.mp3",
-            image: "./assets/img/khongmotbaihat.jpg"
         },
         {
             name: "Chết đi cho rồi",
@@ -142,12 +124,6 @@ const app = {
             image: "./assets/img/thaychua.jpg"
         },
         {
-            name: "Thanh",
-            singer: "Thịnh Suy",
-            path: "./assets/music/Thịnh Suy - Thanh.mp3",
-            image: "./assets/img/thanh.jpg"
-        },
-        {
             name: "Lemon",
             singer: "Kenshi Yonezu (米津玄師)",
             path: "./assets/music/Lemon - Kenshi Yonezu (米津玄師).mp3",
@@ -166,22 +142,10 @@ const app = {
             image: "./assets/img/flydaychinatown.jpg"
         },
         {
-            name: "Bên Trái",
-            singer: "Kiên",
-            path: "./assets/music/KIEN - BÊN TRÁI.mp3",
-            image: "./assets/img/bentrai.jpg"
-        },
-        {
             name: "Traveler",
             singer: "숀 (SHAUN)",
             path: "./assets/music/숀 (SHAUN) - Traveler.mp3",
             image: "./assets/img/traveler.jpg"
-        },
-        {
-            name: "Yoru ni Kakeru「夜に駆ける」",
-            singer: "YOASOBI",
-            path: "./assets/music/Yoru ni Kakeru「夜に駆ける」YOASOBI.mp3",
-            image: "./assets/img/intothenight.jpg"
         },
         {
             name: "Waiting For Love",
