@@ -187,12 +187,6 @@ const app = {
             image: "./assets/img/Shinunoga E-Wa.jpg",
         },
         {
-            name: "The Nights",
-            singer: "Avicii ( Cover by AngieN)",
-            path: "./assets/music/The Nights - Avicii ( Cover by AngieN).mp3",
-            image: "./assets/img/avicii.jpg",
-        },
-        {
             name: "Rather Be - Without Me (Mashup)",
             singer: "Eminem ft. Clean Bandit",
             path: "./assets/music/Rather Be - Without Me [Mashup] - Eminem ft. Clean Bandit.mp3",
