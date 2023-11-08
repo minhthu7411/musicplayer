@@ -67,12 +67,6 @@ const app = {
             image: "./assets/img/vuive.png",
         },
         {
-            name: "Until I Found You",
-            singer: "Stephen Sanchez (ft Em Beihold)",
-            path: "./assets/music/Until I Found You (Juliet to your Romeo) - Stephen Sanchez ft. Em Beihold.mp3",
-            image: "./assets/img/untilifoundyou.jpg",
-        },
-        {
             name: "Somewhere",
             singer: "Groovyroom (Feat. Suran, pH-1)",
             path: "./assets/music/GroovyRoom (그루비룸) - 어디쯤에(Somewhere) (Feat. Suran, pH-1)(Color Coded Han-Rom-Eng Lyrics).mp3",
@@ -95,6 +89,12 @@ const app = {
             singer: "Obito ft. SHIKI",
             path: "./assets/music/Obito - Tell The Kids I Love Them ft. SHIKI.mp3",
             image: "./assets/img/obito.jpg",
+        },
+        {
+            name: "Until I Found You",
+            singer: "Stephen Sanchez (ft Em Beihold)",
+            path: "./assets/music/Until I Found You (Juliet to your Romeo) - Stephen Sanchez ft. Em Beihold.mp3",
+            image: "./assets/img/untilifoundyou.jpg",
         },
         {
             name: "Trước Khi Em Tồn Tại",
