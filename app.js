@@ -52,25 +52,7 @@ const app = {
             name: "Tâm",
             singer: "Mer",
             path: "./assets/music/tâm.mp3",
-            image: "./assets/img/tam.jpg",
-        },
-        {
-            name: "Vui Vẻ",
-            singer: "Oát x Astronormous",
-            path: "./assets/music/Oát x Astronormous - Vui Vẻ.mp3",
-            image: "./assets/img/vuive.png",
-        },
-        {
-            name: "Somewhere",
-            singer: "Groovyroom (Feat. Suran, pH-1)",
-            path: "./assets/music/GroovyRoom (그루비룸) - 어디쯤에(Somewhere) (Feat. Suran, pH-1)(Color Coded Han-Rom-Eng Lyrics).mp3",
-            image: "./assets/img/sddefault.jpg",
-        },
-        {
-            name: "Until I Found You",
-            singer: "Stephen Sanchez (ft Em Beihold)",
-            path: "./assets/music/Until I Found You (Juliet to your Romeo) - Stephen Sanchez ft. Em Beihold.mp3",
-            image: "./assets/img/untilifoundyou.jpg",
+            image: "./assets/img/mer.jpg",
         },
         {
             name: "Not OK",
@@ -79,10 +61,34 @@ const app = {
             image: "./assets/img/notokay.png",
         },
         {
+            name: "Vui Vẻ",
+            singer: "Oát x Astronormous",
+            path: "./assets/music/Oát x Astronormous - Vui Vẻ.mp3",
+            image: "./assets/img/vuive.png",
+        },
+        {
+            name: "Until I Found You",
+            singer: "Stephen Sanchez (ft Em Beihold)",
+            path: "./assets/music/Until I Found You (Juliet to your Romeo) - Stephen Sanchez ft. Em Beihold.mp3",
+            image: "./assets/img/untilifoundyou.jpg",
+        },
+        {
+            name: "Somewhere",
+            singer: "Groovyroom (Feat. Suran, pH-1)",
+            path: "./assets/music/GroovyRoom (그루비룸) - 어디쯤에(Somewhere) (Feat. Suran, pH-1)(Color Coded Han-Rom-Eng Lyrics).mp3",
+            image: "./assets/img/sddefault.jpg",
+        },
+        {
             name: "Lần cuối (Cover)",
             singer: "Gia Nghi",
             path: "./assets/music/Lần cuối - Gia Nghi.mp3",
             image: "./assets/img/gianghi.jpg",
+        },
+        {
+            name: "Nụ hôn Bisou",
+            singer: "Mike",
+            path: "./assets/music/Mike - Nụ hôn Bisou (Official Lyric Video).mp3",
+            image: "./assets/img/nuhonbisou.jpg",
         },
         {
             name: "Tell The Kids I Love Them",
@@ -133,6 +139,12 @@ const app = {
             image: "./assets/img/lonelylove.jpg",
         },
         {
+            name: "Super Rare",
+            singer: "Epik High (에픽하이) ft. Wonstein, pH-1",
+            path: "./assets/music/Epik High (에픽하이) - Super Rare ft. Wonstein, pH-1 Official ART MV.mp3",
+            image: "./assets/img/superrare.jpg",
+        },
+        {
             name: "Sài Gòn tôi mưa",
             singer: "Tuyên (ft. MC Goku)",
             path: "./assets/music/TUYÊN - SÀI GÒN TÔI MƯA (ft. MC GOKU) .mp3",
@@ -143,6 +155,12 @@ const app = {
             singer: "Coogie (Feat. 이하이 (LeeHi))",
             path: "./assets/music/쿠기 (Coogie) - Alone (Feat. 이하이 (LeeHi)) Official MV (ENG).mp3",
             image: "./assets/img/alone.jpg",
+        },
+        {
+            name: "Thiếu Niên K",
+            singer: "Mike (prod. by Huynh Joy)",
+            path: "./assets/music/(Tune #6) Thiếu Niên K - Mike [prod. by Huynh Joy].mp3",
+            image: "./assets/img/thieunienk.jpg",
         },
         {
             name: "Out Of Time",
@@ -173,6 +191,12 @@ const app = {
             singer: "Ngọt",
             path: "./assets/music/Ngọt - Thấy Chưa.mp3",
             image: "./assets/img/thaychua.jpg",
+        },
+        {
+            name: "The Nights - Avicii",
+            singer: "Cover by AngieN",
+            path: "./assets/music/The Nights - Avicii ( Cover by AngieN).mp3",
+            image: "./assets/img/avicii.jpg",
         },
         {
             name: "Chết đi cho rồi",
